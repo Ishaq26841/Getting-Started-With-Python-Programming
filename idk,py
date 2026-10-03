@@ -1,0 +1,22 @@
+print("Daily Routine
+7:00 AM — Wake up
+7:15 AM — Wash up
+7:30 AM — Breakfast
+8:00 AM–10:00 AM — School / classes / main work
+10:00 AM–10:30 AM — Break
+10:30 AM–12:30 PM — School / classes / main work
+12:30 PM–1:15 PM — Lunch
+1:15 PM–2:30 PM — Study
+2:30 PM–3:30 PM — Homework
+3:30 PM–4:00 PM — Break
+4:00 PM–5:00 PM — Study
+5:00 PM–6:00 PM — Practice / assignments
+6:00 PM–6:45 PM — Dinner / break
+6:45 PM–7:15 PM — Review what you need to do
+7:15 PM–8:30 PM — Python project 🐍
+8:30 PM–9:00 PM — Dinner
+9:00 PM–10:00 PM — Homework
+10:00 PM–10:45 PM — Study / revision
+10:45 PM–11:15 PM — Organize schoolwork and prepare things for tomorrow
+11:15 PM–11:30 PM — Finish anything left over
+11:30 PM — Sleep")
